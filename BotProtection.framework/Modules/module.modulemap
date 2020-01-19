@@ -1,4 +1,11 @@
 framework module BotProtection {
+  umbrella header "BotProtection.h"
+
+  export *
+  module * { export * }
+}
+
+module BotProtection.Swift {
     header "BotProtection-Swift.h"
     requires objc
 }

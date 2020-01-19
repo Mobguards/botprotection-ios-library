@@ -11,4 +11,5 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "8.0"
   spec.ios.vendored_frameworks = 'BotProtection.framework'
   spec.source       = { :git => "https://github.com/Mobguards/botprotection-ios-library.git", :tag => "#{spec.version}" }
+  spec.swift_version = "5"
 end
