@@ -1,4 +1,4 @@
 framework module BotProtection {
-  header "BotProtection-Swift.h"
-  requires objc
+    header "BotProtection-Swift.h"
+    requires objc
 }
