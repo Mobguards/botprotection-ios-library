@@ -197,7 +197,7 @@ SWIFT_CLASS("_TtC13BotProtection13BotProtection")
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 + (void)configureWithApiKey:(NSString * _Nonnull)apiKey;
-+ (void)startWithAsync:(BOOL)async;
++ (void)start;
 + (void)sendUUID:(NSString * _Nonnull)uuid;
 + (void)stopWithNeedToken:(BOOL)needToken :(void (^ _Nonnull)(NSString * _Nullable, NSString * _Nullable, NSError * _Nullable))completion;
 @end
