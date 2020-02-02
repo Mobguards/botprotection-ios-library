@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "BotProtection"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   spec.summary      = "BotProtection is a library that defenses your application against bots attacks"
   spec.description  = <<-DESC
   We offer a solution aimed at spotting bots and identifying users with the help of behavioral analytics. BotProtection allows you to counter bot attacks by detecting their activity. You can start working with our SDK right now.

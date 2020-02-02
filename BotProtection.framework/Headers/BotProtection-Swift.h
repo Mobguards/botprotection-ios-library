@@ -185,34 +185,26 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
-@protocol BotProtectionDelegate;
+typedef SWIFT_ENUM(NSInteger, BPError, closed) {
+  BPErrorInvalidData = 0,
+  BPErrorUnknown = 1,
+};
+static NSString * _Nonnull const BPErrorDomain = @"BotProtection.BPError";
+
 
 SWIFT_CLASS("_TtC13BotProtection13BotProtection")
 @interface BotProtection : NSObject
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 + (void)configureWithApiKey:(NSString * _Nonnull)apiKey;
-+ (void)startWithAsync:(BOOL)async delegate:(id <BotProtectionDelegate> _Nullable)delegate;
++ (void)startWithAsync:(BOOL)async;
 + (void)sendUUID:(NSString * _Nonnull)uuid;
-+ (void)stop:(void (^ _Nonnull)(NSString * _Nullable, NSString * _Nullable, NSError * _Nullable))completion;
++ (void)stopWithNeedToken:(BOOL)needToken :(void (^ _Nonnull)(NSString * _Nullable, NSString * _Nullable, NSError * _Nullable))completion;
 @end
 
 
 
 
-
-
-SWIFT_PROTOCOL("_TtP13BotProtection21BotProtectionDelegate_")
-@protocol BotProtectionDelegate
-/// Notifies that BotProtection analytics data was received
-/// \param challengeId challengeId
-///
-/// \param token token
-///
-/// \param error error, occured while sending events
-///
-- (void)didReceiveBotAnalyticsWithChallengeId:(NSString * _Nullable)challengeId token:(NSString * _Nullable)token error:(NSError * _Nullable)error;
-@end
 
 
 
