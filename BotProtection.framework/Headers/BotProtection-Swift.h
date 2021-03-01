@@ -208,7 +208,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
-typedef SWIFT_ENUM(NSInteger, BPError, closed) {
+typedef SWIFT_ENUM(NSInteger, BPError, open) {
   BPErrorInvalidData = 0,
   BPErrorUnknown = 1,
 };
@@ -444,7 +444,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
-typedef SWIFT_ENUM(NSInteger, BPError, closed) {
+typedef SWIFT_ENUM(NSInteger, BPError, open) {
   BPErrorInvalidData = 0,
   BPErrorUnknown = 1,
 };
@@ -680,7 +680,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
-typedef SWIFT_ENUM(NSInteger, BPError, closed) {
+typedef SWIFT_ENUM(NSInteger, BPError, open) {
   BPErrorInvalidData = 0,
   BPErrorUnknown = 1,
 };

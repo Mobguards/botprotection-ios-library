@@ -1,0 +1,37 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
+// swift-module-flags: -target armv7-apple-ios8.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name BotProtection
+@_exported import BotProtection
+import CoreMotion
+import Foundation
+import Swift
+import UIKit
+public struct BPResponseData : Swift.Codable {
+  public let challenge_id: Swift.String
+  public let token: Swift.String?
+  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: Swift.Encoder) throws
+}
+public typealias BPResultCompletion = (Swift.String?, Swift.String?, Swift.Error?) -> Swift.Void
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class BotProtection : ObjectiveC.NSObject {
+  @objc public static func configure(withApiKey apiKey: Swift.String)
+  @objc public static func start()
+  @objc public static func sendUUID(_ uuid: Swift.String)
+  @objc public static func stop(needToken: Swift.Bool, _ completion: @escaping BotProtection.BPResultCompletion)
+  @objc deinit
+}
+@objc public enum BPError : Swift.Int, Swift.Error {
+  case invalidData
+  case unknown
+  public typealias RawValue = Swift.Int
+  public init?(rawValue: Swift.Int)
+  public var rawValue: Swift.Int {
+    get
+  }
+  public static var _nsErrorDomain: Swift.String {
+    get
+  }
+}
+extension BotProtection.BPError : Swift.Equatable {}
+extension BotProtection.BPError : Swift.Hashable {}
+extension BotProtection.BPError : Swift.RawRepresentable {}
