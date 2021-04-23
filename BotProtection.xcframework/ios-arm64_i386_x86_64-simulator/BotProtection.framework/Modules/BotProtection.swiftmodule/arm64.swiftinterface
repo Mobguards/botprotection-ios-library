@@ -8,6 +8,8 @@ import Foundation
 import Security
 import Swift
 import UIKit
+import os.log
+import os
 public struct BPResponseData : Swift.Codable {
   public let challenge_id: Swift.String
   public let token: Swift.String?

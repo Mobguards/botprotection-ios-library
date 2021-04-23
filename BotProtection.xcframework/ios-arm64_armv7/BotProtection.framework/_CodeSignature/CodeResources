@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/BotProtection-Swift.h</key>
 		<data>
-		Ochud7zf1Kh061N2NPhQ0n7faX0=
+		xHsKlz+KuemMPSxNo6JilnYrAoQ=
 		</data>
 		<key>Headers/BotProtection.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ar77JFQliifAo0gQn2fOxTCI0uw=
+		B/lycmpJ8QBsBJ8wU4cPVYzb+7U=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/BotProtection.swiftmodule/arm.swiftinterface</key>
 		<data>
-		dBXJe1fA6SMTaMWX4hICibj8glk=
+		KgsxYkZGFmBMJeh5tFsQnque6As=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/arm.swiftmodule</key>
 		<data>
-		FJTB2m0Zu+h2zfLrjt138mzTBKk=
+		hRyoo1GtWL4uGrzS88oe8thyfqM=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/BotProtection.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		thj3fTJNrSuSqs6UPxfubxyCD4s=
+		9NFZSNWAJl6raQVKtopKLU277SY=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		B+IK4rev0kex3wQlUttWg7E6Ljo=
+		i8VcW9UxA4pAUzXXk0C17EsXzU0=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/BotProtection.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		thj3fTJNrSuSqs6UPxfubxyCD4s=
+		9NFZSNWAJl6raQVKtopKLU277SY=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		B+IK4rev0kex3wQlUttWg7E6Ljo=
+		i8VcW9UxA4pAUzXXk0C17EsXzU0=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/BotProtection.swiftmodule/armv7-apple-ios.swiftinterface</key>
 		<data>
-		dBXJe1fA6SMTaMWX4hICibj8glk=
+		KgsxYkZGFmBMJeh5tFsQnque6As=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		FJTB2m0Zu+h2zfLrjt138mzTBKk=
+		hRyoo1GtWL4uGrzS88oe8thyfqM=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/armv7.swiftdoc</key>
 		<data>
@@ -70,19 +70,15 @@
 		</data>
 		<key>Modules/BotProtection.swiftmodule/armv7.swiftinterface</key>
 		<data>
-		dBXJe1fA6SMTaMWX4hICibj8glk=
+		KgsxYkZGFmBMJeh5tFsQnque6As=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		FJTB2m0Zu+h2zfLrjt138mzTBKk=
+		hRyoo1GtWL4uGrzS88oe8thyfqM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		7XeBRNdB5ftxRmPg7oWe2x0Iul0=
-		</data>
-		<key>mobguards.crt</key>
-		<data>
-		q6U/U1X9HU6dIpBEcEtn3OyvhzY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -91,11 +87,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ochud7zf1Kh061N2NPhQ0n7faX0=
+			xHsKlz+KuemMPSxNo6JilnYrAoQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			+ui+vyxamoObdtIeJy63J2W9O19+aZoCxbhbHoASHMM=
+			NWMEr4S93NSGltVjE000r0l9Y3v0T2nT1wdfIe6opAU=
 			</data>
 		</dict>
 		<key>Headers/BotProtection.h</key>
@@ -124,22 +120,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dBXJe1fA6SMTaMWX4hICibj8glk=
+			KgsxYkZGFmBMJeh5tFsQnque6As=
 			</data>
 			<key>hash2</key>
 			<data>
-			u4BCJh43zEVetJejWc4ZLnJshJGBiJmFOmytt4Gqosc=
+			VMLztytzO4tzuJ3jJvtrODrKEJ2Q3HAWcu5VY1F6gEg=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FJTB2m0Zu+h2zfLrjt138mzTBKk=
+			hRyoo1GtWL4uGrzS88oe8thyfqM=
 			</data>
 			<key>hash2</key>
 			<data>
-			r1rUkXBSU8N31s73WwVsh4ujknG64n0qr4PDsYNEiKw=
+			t4ncCnI0rHLNRZrrnOUZX73mUR6bVMd2T3a1HEmg1GU=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -157,22 +153,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			thj3fTJNrSuSqs6UPxfubxyCD4s=
+			9NFZSNWAJl6raQVKtopKLU277SY=
 			</data>
 			<key>hash2</key>
 			<data>
-			INSxMBdmzrk/CcPisZOBiUK7uYy3nKUC8MM0A63zHNk=
+			3eNomFISHxjGMCEZxWODVYZD8LBEjvOwqAK0mI/Gky4=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B+IK4rev0kex3wQlUttWg7E6Ljo=
+			i8VcW9UxA4pAUzXXk0C17EsXzU0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ELjk/I3zsyUcsKXYLWFphNn5MUCcbz4rFzzQYzPEXSw=
+			xDrpraSpD2bjZIrcSs1okKQarL9q/yeO304CvKfTdO4=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/arm64.swiftdoc</key>
@@ -190,22 +186,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			thj3fTJNrSuSqs6UPxfubxyCD4s=
+			9NFZSNWAJl6raQVKtopKLU277SY=
 			</data>
 			<key>hash2</key>
 			<data>
-			INSxMBdmzrk/CcPisZOBiUK7uYy3nKUC8MM0A63zHNk=
+			3eNomFISHxjGMCEZxWODVYZD8LBEjvOwqAK0mI/Gky4=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B+IK4rev0kex3wQlUttWg7E6Ljo=
+			i8VcW9UxA4pAUzXXk0C17EsXzU0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ELjk/I3zsyUcsKXYLWFphNn5MUCcbz4rFzzQYzPEXSw=
+			xDrpraSpD2bjZIrcSs1okKQarL9q/yeO304CvKfTdO4=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -223,22 +219,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dBXJe1fA6SMTaMWX4hICibj8glk=
+			KgsxYkZGFmBMJeh5tFsQnque6As=
 			</data>
 			<key>hash2</key>
 			<data>
-			u4BCJh43zEVetJejWc4ZLnJshJGBiJmFOmytt4Gqosc=
+			VMLztytzO4tzuJ3jJvtrODrKEJ2Q3HAWcu5VY1F6gEg=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FJTB2m0Zu+h2zfLrjt138mzTBKk=
+			hRyoo1GtWL4uGrzS88oe8thyfqM=
 			</data>
 			<key>hash2</key>
 			<data>
-			r1rUkXBSU8N31s73WwVsh4ujknG64n0qr4PDsYNEiKw=
+			t4ncCnI0rHLNRZrrnOUZX73mUR6bVMd2T3a1HEmg1GU=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/armv7.swiftdoc</key>
@@ -256,22 +252,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dBXJe1fA6SMTaMWX4hICibj8glk=
+			KgsxYkZGFmBMJeh5tFsQnque6As=
 			</data>
 			<key>hash2</key>
 			<data>
-			u4BCJh43zEVetJejWc4ZLnJshJGBiJmFOmytt4Gqosc=
+			VMLztytzO4tzuJ3jJvtrODrKEJ2Q3HAWcu5VY1F6gEg=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/armv7.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FJTB2m0Zu+h2zfLrjt138mzTBKk=
+			hRyoo1GtWL4uGrzS88oe8thyfqM=
 			</data>
 			<key>hash2</key>
 			<data>
-			r1rUkXBSU8N31s73WwVsh4ujknG64n0qr4PDsYNEiKw=
+			t4ncCnI0rHLNRZrrnOUZX73mUR6bVMd2T3a1HEmg1GU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -283,17 +279,6 @@
 			<key>hash2</key>
 			<data>
 			yzYXb8pgm5Whd87LVYgCPPHN+8Xeen06idgtH3HAa8o=
-			</data>
-		</dict>
-		<key>mobguards.crt</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			q6U/U1X9HU6dIpBEcEtn3OyvhzY=
-			</data>
-			<key>hash2</key>
-			<data>
-			rNBN5WlHkn+QYPWwWxwrseMgdX708et5QZbiUoERINg=
 			</data>
 		</dict>
 	</dict>

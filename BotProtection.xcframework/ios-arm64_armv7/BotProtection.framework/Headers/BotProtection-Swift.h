@@ -229,6 +229,7 @@ SWIFT_CLASS("_TtC13BotProtection13BotProtection")
 
 
 
+
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
 #endif
@@ -460,6 +461,7 @@ SWIFT_CLASS("_TtC13BotProtection13BotProtection")
 + (void)sendUUID:(NSString * _Nonnull)uuid;
 + (void)stopWithNeedToken:(BOOL)needToken :(void (^ _Nonnull)(NSString * _Nullable, NSString * _Nullable, NSError * _Nullable))completion;
 @end
+
 
 
 

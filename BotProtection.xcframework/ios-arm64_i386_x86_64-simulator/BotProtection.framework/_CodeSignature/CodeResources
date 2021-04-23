@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/BotProtection-Swift.h</key>
 		<data>
-		EIIe8w2rDKDsz/FwJIJvdX8XyKw=
+		rk3WGEjsOGR/ZHtcxYlco8IpodY=
 		</data>
 		<key>Headers/BotProtection.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WFKsbz5anCTvmjCRanK+grEdDzs=
+		yKefpoWoqoZaLBMhoP/v6mT9uRs=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/BotProtection.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		tFzMco6y3hEWKWfPQvK35GdbOSQ=
+		cXg1CEYOK4FSn9hJm/C+ihVa7TE=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2nYO7qYFMwgwglJAMXVeBo9YYZY=
+		MJvVUQ8pxSQ3iUBH9lIvTF2uB/A=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/BotProtection.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		tFzMco6y3hEWKWfPQvK35GdbOSQ=
+		cXg1CEYOK4FSn9hJm/C+ihVa7TE=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		2nYO7qYFMwgwglJAMXVeBo9YYZY=
+		MJvVUQ8pxSQ3iUBH9lIvTF2uB/A=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/BotProtection.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		WG+mmHj0DRy/S5U/eBxCr5cPH5A=
+		dvF6cagxlS3SngKZfmEfUYRZP1U=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wj0trJtCcpY3Q4bBrpe+hs/LA3Y=
+		BvAuE1SeA2yfrK7vDKWK6aSYaLU=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/BotProtection.swiftmodule/i386.swiftinterface</key>
 		<data>
-		WG+mmHj0DRy/S5U/eBxCr5cPH5A=
+		dvF6cagxlS3SngKZfmEfUYRZP1U=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/i386.swiftmodule</key>
 		<data>
-		wj0trJtCcpY3Q4bBrpe+hs/LA3Y=
+		BvAuE1SeA2yfrK7vDKWK6aSYaLU=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -70,11 +70,11 @@
 		</data>
 		<key>Modules/BotProtection.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		F15D8WOPxXeyHlSQLmIMlMEh510=
+		MLWM17ZrGI6ldMvgZaCc0ZpD4wU=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7bOPuVwHJw8m4fQlPAC76LJBxVI=
+		IVHtYtmTj7VMB4J/ovYRst9w1a4=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -82,19 +82,15 @@
 		</data>
 		<key>Modules/BotProtection.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		F15D8WOPxXeyHlSQLmIMlMEh510=
+		MLWM17ZrGI6ldMvgZaCc0ZpD4wU=
 		</data>
 		<key>Modules/BotProtection.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		7bOPuVwHJw8m4fQlPAC76LJBxVI=
+		IVHtYtmTj7VMB4J/ovYRst9w1a4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		7XeBRNdB5ftxRmPg7oWe2x0Iul0=
-		</data>
-		<key>mobguards.crt</key>
-		<data>
-		q6U/U1X9HU6dIpBEcEtn3OyvhzY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -103,11 +99,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EIIe8w2rDKDsz/FwJIJvdX8XyKw=
+			rk3WGEjsOGR/ZHtcxYlco8IpodY=
 			</data>
 			<key>hash2</key>
 			<data>
-			WZ59DmE2bmeajKpB/Tb+zagqKdIre6d8iYg8r8U36DY=
+			vfJk2CiNz/QPZ/EsZWyIf3MVtSIbUUqwVXmGSFgblC0=
 			</data>
 		</dict>
 		<key>Headers/BotProtection.h</key>
@@ -136,22 +132,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tFzMco6y3hEWKWfPQvK35GdbOSQ=
+			cXg1CEYOK4FSn9hJm/C+ihVa7TE=
 			</data>
 			<key>hash2</key>
 			<data>
-			jAn9+BJpoLM9+1t8rqwtfu4jDC4LsSEXn5Nf8nglnUQ=
+			bR29/94DShVzuDh6X0RzjPKnuQkOH/mg+dme0upNkgE=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2nYO7qYFMwgwglJAMXVeBo9YYZY=
+			MJvVUQ8pxSQ3iUBH9lIvTF2uB/A=
 			</data>
 			<key>hash2</key>
 			<data>
-			ae4YDB3nkEisWq54ut0zPzDdA2AYvwrfRUP22rr2V6Y=
+			N1tC8pOHj1n+YOMMXSz7EsqnmLQIIM9b9nAX0RIXjEY=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/arm64.swiftdoc</key>
@@ -169,22 +165,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tFzMco6y3hEWKWfPQvK35GdbOSQ=
+			cXg1CEYOK4FSn9hJm/C+ihVa7TE=
 			</data>
 			<key>hash2</key>
 			<data>
-			jAn9+BJpoLM9+1t8rqwtfu4jDC4LsSEXn5Nf8nglnUQ=
+			bR29/94DShVzuDh6X0RzjPKnuQkOH/mg+dme0upNkgE=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2nYO7qYFMwgwglJAMXVeBo9YYZY=
+			MJvVUQ8pxSQ3iUBH9lIvTF2uB/A=
 			</data>
 			<key>hash2</key>
 			<data>
-			ae4YDB3nkEisWq54ut0zPzDdA2AYvwrfRUP22rr2V6Y=
+			N1tC8pOHj1n+YOMMXSz7EsqnmLQIIM9b9nAX0RIXjEY=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -202,22 +198,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WG+mmHj0DRy/S5U/eBxCr5cPH5A=
+			dvF6cagxlS3SngKZfmEfUYRZP1U=
 			</data>
 			<key>hash2</key>
 			<data>
-			yv9JBWuvLxz1lS0pElm/1ZGYR9VAlLJeInOAk65BqF0=
+			ruuv/x6jZin+3B4+FF536B412iL0FXOpmGX0L9Is5nw=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wj0trJtCcpY3Q4bBrpe+hs/LA3Y=
+			BvAuE1SeA2yfrK7vDKWK6aSYaLU=
 			</data>
 			<key>hash2</key>
 			<data>
-			KsY1R7etYQBmOHzccicWnoDby+KjsyAAA0nLbwr9Ro8=
+			jS+YW+NVbHtKGgeDonBs0B/1QGVVf2ulsOQfCykA8v4=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/i386.swiftdoc</key>
@@ -235,22 +231,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WG+mmHj0DRy/S5U/eBxCr5cPH5A=
+			dvF6cagxlS3SngKZfmEfUYRZP1U=
 			</data>
 			<key>hash2</key>
 			<data>
-			yv9JBWuvLxz1lS0pElm/1ZGYR9VAlLJeInOAk65BqF0=
+			ruuv/x6jZin+3B4+FF536B412iL0FXOpmGX0L9Is5nw=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wj0trJtCcpY3Q4bBrpe+hs/LA3Y=
+			BvAuE1SeA2yfrK7vDKWK6aSYaLU=
 			</data>
 			<key>hash2</key>
 			<data>
-			KsY1R7etYQBmOHzccicWnoDby+KjsyAAA0nLbwr9Ro8=
+			jS+YW+NVbHtKGgeDonBs0B/1QGVVf2ulsOQfCykA8v4=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -268,22 +264,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			F15D8WOPxXeyHlSQLmIMlMEh510=
+			MLWM17ZrGI6ldMvgZaCc0ZpD4wU=
 			</data>
 			<key>hash2</key>
 			<data>
-			gwjSeFZgVY3JFDw3qHyIrpFr/YXZFu7YhBZaa8wdSEo=
+			l49J5menD/nQFvbZbmQ09eTRr0aguFWkDlEukIZ68qo=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7bOPuVwHJw8m4fQlPAC76LJBxVI=
+			IVHtYtmTj7VMB4J/ovYRst9w1a4=
 			</data>
 			<key>hash2</key>
 			<data>
-			yKm2rxfD73AYwz285dPZlBPcTSe9eT9uReAMUd2xaCY=
+			neRWp2do4JojXYJKowdRBn1hzxNvQL/wIldx0OoGxtQ=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/x86_64.swiftdoc</key>
@@ -301,22 +297,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			F15D8WOPxXeyHlSQLmIMlMEh510=
+			MLWM17ZrGI6ldMvgZaCc0ZpD4wU=
 			</data>
 			<key>hash2</key>
 			<data>
-			gwjSeFZgVY3JFDw3qHyIrpFr/YXZFu7YhBZaa8wdSEo=
+			l49J5menD/nQFvbZbmQ09eTRr0aguFWkDlEukIZ68qo=
 			</data>
 		</dict>
 		<key>Modules/BotProtection.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7bOPuVwHJw8m4fQlPAC76LJBxVI=
+			IVHtYtmTj7VMB4J/ovYRst9w1a4=
 			</data>
 			<key>hash2</key>
 			<data>
-			yKm2rxfD73AYwz285dPZlBPcTSe9eT9uReAMUd2xaCY=
+			neRWp2do4JojXYJKowdRBn1hzxNvQL/wIldx0OoGxtQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -328,17 +324,6 @@
 			<key>hash2</key>
 			<data>
 			yzYXb8pgm5Whd87LVYgCPPHN+8Xeen06idgtH3HAa8o=
-			</data>
-		</dict>
-		<key>mobguards.crt</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			q6U/U1X9HU6dIpBEcEtn3OyvhzY=
-			</data>
-			<key>hash2</key>
-			<data>
-			rNBN5WlHkn+QYPWwWxwrseMgdX708et5QZbiUoERINg=
 			</data>
 		</dict>
 	</dict>
